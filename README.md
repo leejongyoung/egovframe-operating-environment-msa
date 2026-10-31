@@ -1,4 +1,8 @@
 # Istio 및 OpenTelemetry 운영환경 가이드
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.16-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-17-007396?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-2.33.1-326CE5?logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 ## 표준프레임워크 MSA 공통컴포넌트 가져오기
 
 ### 레포지토리에서 가져오기
